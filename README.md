@@ -1,3 +1,5 @@
+<div align="center">
+
 # group-2_IOT_summer_lab6
 lab6
 
@@ -8,3 +10,4 @@ lab6
 
 https://github.com/user-attachments/assets/678a11fa-a2f2-4852-ab17-eba3c102470a
 
+</div>
